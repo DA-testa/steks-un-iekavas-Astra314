@@ -1,4 +1,5 @@
-# Check for balanced parentheses in an expression
+# Julija Gaidelene 211RDB333
+
 open_list = ["[","{","("]
 close_list = ["]","}",")"]
  
