@@ -32,4 +32,4 @@ string = "h[{}{})(]"
 print(check(string))
  
 string = "{[}"
-print(check(string))
+print(check(input()))
