@@ -21,5 +21,5 @@ def check(myStr):
         return "Success"
     else:
         return stack[-1][1]+2
-
-print(check(input()))
+if "I" in input():
+ print(check(input()))
