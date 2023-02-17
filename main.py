@@ -21,15 +21,5 @@ def check(myStr):
         return "Success"
     else:
         return stack[-1][1]+2
-    
- 
- 
-# Driver code
-string = "{{{}}}"
-print(check(string))
- 
-string = "h[{}{})(]"
-print(check(string))
- 
-string = "{[}"
+
 print(check(input()))
